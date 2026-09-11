@@ -47,9 +47,8 @@ Resturant_Ordering/
 │   └── wsgi.py
 │
 ├── .gitignore
-├── db.sqlite3
 ├── manage.py
-└── .md
+└── README.md
 ```
 
 ## ⚙️ Installation
