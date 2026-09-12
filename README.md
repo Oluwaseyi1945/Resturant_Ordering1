@@ -1,4 +1,4 @@
-# Restaurant Ordering API
+# Restaurant Ordering1 API
 
 A RESTful restaurant ordering API built with **Django** and **Django REST Framework**. The API allows customers to browse available menu items, create and manage orders, and track order status.
 
@@ -29,7 +29,7 @@ JWT authentication is used to secure customer and staff operations.
 ## 📁 Project Structure
 
 ```text
-Resturant_Ordering/
+Resturant_Ordering1/
 │
 ├── orders/
 │   ├── migrations/
@@ -50,19 +50,18 @@ Resturant_Ordering/
 ├── manage.py
 └── README.md
 ```
-
 ## ⚙️ Installation
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Oluwaseyi1945/Resturant_Ordering.git
+git clone https://github.com/Oluwaseyi1945/Resturant_Ordering1.git
 ```
 
 ### 2. Navigate into the project
 
 ```bash
-cd Resturant_Ordering
+cd Resturant_Ordering1
 ```
 
 ### 3. Create a virtual environment
@@ -88,7 +87,7 @@ source venv/bin/activate
 ### 5. Install dependencies
 
 ```bash
-pip install django djangorestframework djangorestframework-simplejwt
+pip install -r requirements.txt
 ```
 
 ### 6. Apply migrations
@@ -116,6 +115,7 @@ The API will be available at:
 ```text
 http://127.0.0.1:8000/
 ```
+
 
 ## 🔐 Authentication
 
