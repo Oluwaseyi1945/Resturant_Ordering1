@@ -1,4 +1,4 @@
-# Restaurant Ordering1 API
+# Restaurant Ordering API
 
 A RESTful restaurant ordering API built with **Django** and **Django REST Framework**. The API allows customers to browse available menu items, create and manage orders, and track order status.
 
